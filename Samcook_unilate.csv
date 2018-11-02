@@ -1,0 +1,95 @@
+,CT Scan ID,ScanID,MLS,Surgical condition,Unnamed: 4,Unnamed: 5,MLS_Aeron,Bilateral?,Surgical ,unilate
+0,1002.0,SDH16-1,4.3,,,,3.5,u,,True
+1,,SDH16-2,15.84,,,,14.5,u,"Occipital haematoma (outlier, compare with other occipital ones)",True
+2,,SDH16-3,0.0,Post craniectomy,,,2.7,b,Post-craniectomy,False
+3,,SDH16-4,3.0,Post craniectomy,,,4.7,b,Post-craniectomy,False
+4,,SDH16-5,4.2,Post craniectomy,,,4.7,b,,False
+5,1011.0,EDH9,21.09,,,,16.8,u,"Could be bilateral anyway, left epidural and right contusion",True
+6,,EDH9-1,5.2,bone replaced,,,4.1,b,,False
+7,,EDH9-2,5.497,bone replaced2,,,4.4,b,,False
+8,1019.0,SDH17,2.977,,,,4.0,u,,True
+9,,SDH17-1,5.035,,,,4.7,u,,True
+10,,SDH17-2,0.0,Post craniectomy,,,3.0,u,Post craniectomy,False
+11,,SDH17-3,0.0,Post craniectomy,,,0.0,u,Post craniectomy,False
+12,,SDH17-4,0.0,Post craniectomy,,,0.0,u,Post craniectomy,False
+13,,SDH17-5,0.0,Post craniectomy,,,0.0,u,Post craniectomy,False
+14,,SDH17-6,1.614,Post craniectomy,,,1.5,u,Post craniectomy,False
+15,,SDH17-7,2.673,Post craniectomy,,,2.0,u,Post craniectomy,False
+16,1026.0,CONT10,3.322,,,,2.5,u,Looks atrophic,True
+17,,CONT10-1,4.263,,,,3.0,u,,True
+18,,CONT10-2,7.264,no surgery,,,8.0,u,,True
+19,1029.0,CONT11,0.0,,,,0.0,u,,False
+20,,CONT11-1,0.0,,,,0.0,u,,False
+21,,CONT11-2,0.0,No surgery,,,0.0,u,,False
+22,1034.0,SDH18,2.292,NO surgery,,,2.4,b,,True
+23,,SDH18-1,2.72,,,,2.5,B,,True
+24,,SDH18-2,2.872,,,,1.8,b,,True
+25,,SDH18-3,1.51,,,,3.0,b,Bi or uni depending on oedema ,True
+26,,SDH18-4,1.919,,,,1.9,u,,True
+27,,SDH18-5,2.192,,,,2.0,b,,True
+28,,SDH18-6,2.283,,,,3.5,b,,True
+29,1037.0,SDH19,5.04,,,,5.5,u,,True
+30,,SDH19-1,4.305,Bone replaced,,,3.8,u,Post craniotomy,False
+31,,SDH19-2,2.086,,,,2.8,No ,"No evident blood lesion, some oedema (intracellular swelling) ms towards the oedema site",False
+32,1038.0,SDH20,0.0,,,,1.9,b,,True
+33,,SDH20-1,2.964,,,,3.0,b,,True
+34,,SDH20-2,0.0,,,,2.5,u,,True
+35,1040.0,SDH21,1.88,,,,2.5,u,Bone fracture,True
+36,,SDH21-1,1.008,,,,2.2,u,,True
+37,,SDH21-2,3.289,Craniectomy,,,2.2,u,craniectomy,False
+38,,SDH21-3,0.0,Craniectomy,,,0.0,u,post_craniectomy,False
+39,,SDH21-4,4.392,Craniectomy,,,4.2,u,post_ craniectomy,False
+40,,SDH21-5,4.465,Craniectomy,,,4.8,u,post_craniectomy,False
+41,1045.0,SDH22,0.0,no surgery,,,2.3,u,,False
+42,,SDH22-1,1.008,,,,2.5,u,,False
+43,,SDH22-2,1.607,,,,0.5,u,,False
+44,,SDH22-3,1.7,,,,2.0,u,,False
+45,1050.0,SDH23,0.0,NO surgery,,,0.0,u,n,True
+46,,SDH23-1,0.0,,,,0.0,u,,True
+47,,SDH23-2,0.0,,,,0.0,u,,True
+48,1060.0,SDH24,15.16,,,,12.0,u,,True
+49,,SDH24-1,2.733,Craniectomy,,,6.0,u,craniectomy,False
+50,,SDH24-2,0.0,,,,1.2,u,craniectomy,False
+51,,SDH24-3,1.256,,,,1.5,u,,False
+52,1061.0,CONT12,0.0,no surgery,,,0.0,u,,True
+53,,CONT12-1,0.0,,,,0.0,u,,True
+54,1065.0,CONT13,0.0,No surgery,,,0.0,u,,True
+55,,CONT13-1,1.222,,,,0.0,u,,True
+56,,CONT13-2,0.0,,,,0.0,u,,True
+57,1067.0,SDH25,2.646,NO surgery,,,2.5,u,,True
+58,,SDH25-1,2.149,,,,2.5,u,,True
+59,,SDH25-2,2.836,,,,1.2,u,"Lesions very small, sdh absorved",True
+60,1069.0,CONT14,0.0,Not worth repeating,,,0.0,,,True
+61,,CONT14-1,0.0,,,,0.0,,,True
+62,,CONT14-2,0.0,,,,0.0,,,True
+63,,CONT14-3,0.0,,,,0.0,,,True
+64,,CONT14-4,0.0,,,,0.0,,,True
+65,1070.0,CONT15,1.586,no surgery,,,1.7,u,"Could be bilateral, ",False
+66,,CONT15-1,2.79,,,,2.0,u,,False
+67,,CONT15-2,2.645,,,,2.5,u,,False
+68,,CONT15-3,2.947,,,,2.6,u,,False
+69,,CONT15-4,3.652,,,,3.8,u,,False
+70,1072.0,CONT16,0.0,no surgery,,,0.0,b,,False
+71,,CONT16-1,0.74,,,,0.7,b,,False
+72,,CONT16-2,2.974,,,,2.4,b,,False
+73,1080.0,SDH26,3.413,,,,3.2,u,,False
+74,,SDH26-1,8.334,,,,6.8,u,,True
+75,,SDH26-2,0.0,,,,1.7,u,Post craniectomy,False
+76,,SDH26-3,0.0,Craniectomy,,,0.0,u,,False
+77,,SDH26-4,2.84,,,,1.0,u,,False
+78,1081.0,CONT17,0.0,NOT WORTH repeating,,,0.0,u,,True
+79,,CONT17-1,0.0,,,,0.0,u,,True
+80,,CONT17-2,0.0,,,,0.0,u,,True
+81,1093.0,CONT18,0.6,no surgery,,,0.8,u,,True
+82,,CONT18-1,2.475,,,,2.5,u,,True
+83,,CONT18-2,2.629,,,,2.6,u,,True
+84,1104.0,SDH27,4.37,Post craniotomy only,,,4.0,u,Post craniotomy,True
+85,,SDH27-1,3.704,,,,3.5,u,Post craniotomy,True
+86,1109.0,SDH28,0.0,Not worth repeating,,,0.0,u,,True
+87,,SDH28-1,0.0,,,,0.0,u,,True
+88,1110.0,,3.31,Hydrocephalus ignore for the moment,,,,,,False
+89,1111.0,CONT19,1.4,,,,1.5,b,,False
+90,,CONT19-1,4.054,,,,3.0,b,,False
+91,,CONT19-2,3.792,bifrontal craniectomy,,,0.0,b,,False
+92,,CONT19-3,1.423,,,,1.5,b,,False
+93,,SDH14,31.0,,,,26.0,u,,True

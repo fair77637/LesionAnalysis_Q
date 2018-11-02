@@ -1,0 +1,42 @@
+CT Scan ID,ID,unilate,MLS,Surgical condition,MLS_Aeron,Age,Gender,Mechanism,GCS,GOS,GOSE
+1731236.0,EDH3,1.0,1.092,,1.9,20,male,RTC,unable to find,5,7
+1777243.0,SDH2,1.0,7.363,o,7.5,74,female,RTC,9,5,7
+859543.0,EDH1,1.0,14.6,e,12.5,39,male,bicycle accident,13,LTFU,LTFU
+1896763.0,SDH3,1.0,3.895,o,3.8,80,male,fall from height,12,1,1
+3487946.0,CONT5,1.0,12.49,,5.0,50,male,fall from height,7,4,5
+3799763.0,EDH7,1.0,11.66,o,12.8,50,male,fall,9,5,7
+3798130.0,SDH12,1.0,16.32,o,15.2,77,male,fall,3,5,7
+3797961.0,CONT7,1.0,4.371,o,0.0,REMOVE PATIENT AS NOT TBI,,,,,
+3797770.0,SDH11,1.0,4.407,o,4.2,35,male,fall,8,5,8
+3769711.0,EDH6,1.0,1.358,o,1.8,18,male,RTC,12,LTFU,LTFU
+3764350.0,SDH9,1.0,8.627,o,6.2,26,male,RTC,7,LTFU,LTFU
+3732626.0,SDH5,1.0,2.837,,2.7,22,female,RTC,3,4,6
+3709789.0,CONT6,1.0,0.0,,0.5,61,male,motorcyle Vs car,14,4,6
+3708063.0,SDH4,1.0,14.17,o,12.5,53,female,fall from standing height,4,5,8
+3050406.0,EDH4,1.0,2.0,,3.3,18,male,RTc,5,5,8
+3737808.0,SDH6,1.0,2.913,,0.0,75,male,fall down stairs,3,1,1
+3742364.0,SDH7,1.0,22.36,,20.3,48,male,fall down stairs,3,1,1
+3758895.0,SDH8,1.0,7.542,,5.5,44,male,RTC,3,1,1
+1003081.0,CONT1,1.0,0.9618,,1.6,46,male,fall from height,3,4,6
+1040280.0,CONT2,1.0,0.9309,,0.0,30,female,RTC,3,2,2
+1002.0,SDH16-1,1.0,4.3,e,3.5,65.0,Female,Pedestrian Vs bus,10.0,1.0,1.0
+1011.0,EDH9,1.0,21.09,o,16.8,52.0,Male,Ped Vs car,3.0,1.0,1.0
+1019.0,SDH17,1.0,2.977,e,4.0,29.0,Male,Alleged Assualt,11.0,3.0,3.0
+1026.0,CONT10,1.0,3.322,,2.5,69.0,Male,Alleged Assualt,14.0,1.0,1.0
+1034.0,SDH18,1.0,2.292,,2.4,58.0,Female,Fall down stairs,15.0,5.0,7.0
+1037.0,SDH19,1.0,5.04,o,5.5,63.0,Female,Fall down stairs,7.0,3.0,3.0
+1038.0,SDH20,1.0,0.0,,1.9,24.0,Male,RTC,6.0,4.0,5.0
+1040.0,SDH21,1.0,1.88,e,2.5,17.0,Male,RTC,8.0,4.0,6.0
+1050.0,SDH23,1.0,0.0,,0.0,39.0,Male,Alleged Assualt,3.0,1.0,1.0
+1060.0,SDH24,1.0,15.16,e,12.0,65.0,Male,Alleged Assualt,4.0,4.0,5.0
+1060.0,CONT12-1,1.0,0.0,,0.0,65.0,Male,Alleged Assualt,4.0,4.0,5.0
+1065.0,CONT13,1.0,0.0,,0.0,46.0,Female,Cyclist Vs car,14.0,4.0,5.0
+1067.0,SDH25,1.0,2.646,,2.5,48.0,Male,trampled by cows,8.0,4.0,6.0
+1069.0,CONT14,1.0,0.0,,0.0,73.0,Male,RTC,15.0,5.0,8.0
+1069.0,SDH26-1,1.0,8.334,e,6.8,73.0,Male,RTC,15.0,5.0,8.0
+1081.0,CONT17,1.0,0.0,,0.0,20.0,Male,Motorcycle Accident,13.0,4.0,6.0
+1093.0,CONT18,1.0,0.6,,0.8,28.0,Male,Cycling accident,15.0,5.0,8.0
+1104.0,SDH27,1.0,4.37,o,4.0,16.0,Male,Fall from roof,7.0,4.0,6.0
+1109.0,SDH28,1.0,0.0,,0.0,42.0,Male,Motorcycle Accident,13.0,4.0,6.0
+,SDH14,1.0,31.0,,26.0,,,,,,
+,tutorial3,,,,,,,,,,

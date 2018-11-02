@@ -1,0 +1,74 @@
+,CT Scan ID,ScanID,MLS,Surgical condition,Unnamed: 4,Unnamed: 5,MLS_Aeron,Bilateral?,Surgical ,Unnamed: 9,unilate
+0,1723038.0,EDH2,1.233,,,,0.0,u,,,False
+1,1731236.0,EDH3,1.092,,,,1.9,u,,,True
+2,,EDH3-1,0.8102,,,,0.0,u,,,True
+3,1777243.0,SDH2,7.363,,,,7.5,b,,,True
+4,,SDH2-1,8.197,,,,7.6,b,,,True
+5,,SDH2-2,4.965,Craniotomy,,,2.9,b,,,False
+6,,SDH2-3,5.657,Craniotomy,,,2.6,b,,,False
+7,1780351.0,CONT3,2.61,,,,1.5,b,,,False
+8,,CONT3-1,6.028,Bifrontal craniectomy,,,4.6,b,,,False
+9,,CONT3-2,6.585,Craniectomy,,,4.5,b,,,False
+10,,CONT3-3,6.507,Craniectomy,,,5.4,b,,,False
+11,,CONT3-4,1.825,Craniectomy,,,0.0,b,,,False
+12,365770.0,SDH1,0.0,,,,0.0,b,,,False
+13,,SDH1-1,0.0,,,,0.0,b,,,False
+14,859543.0,EDH1,14.6,,,,12.5,u,,no oedema,True
+15,,EDH1-1,3.618,Craniectomy,,,2.3,u,ectomy,,False
+16,1805902.0,CONT4,2.204,,,,2.2,b,,,False
+17,,CONT4-1,2.192,,,,1.5,b,,,False
+18,1896763.0,SDH3,3.895,,,,3.8,u,,atrophy,True
+19,,SDH3-1,6.139,,,,5.5,u,,,True
+20,,SDH3-2,6.106,craniotomy,,,5.5,b,otomy,,False
+21,3487946.0,CONT5,12.49,,,,5.0,u,,,True
+22,3802050.0,"TAI,IVH not included",,,,,,,,,False
+23,3799763.0,EDH7,11.66,,,,12.8,u,,no oedema,True
+24,,EDH7-1,5.554,CRANIOTOMY,,,6.2,u,,,False
+25,,EDH7-2,5.645,CRANIOTOMY,,,4.8,u,,,False
+26,,EDH7-3,4.118,CRANIOTOMY,,,4.6,u,,,False
+27,3798130.0,SDH12,16.32,,,,15.2,u,,,True
+28,,SDH12-1,6.837,craniotomy,,,5.3,u,otomy,,False
+29,,SDH12-2,5.269,,,,1.5,u,otomy,,False
+30,3797961.0,CONT7,4.371,,,,0.0,u,,,True
+31,,CONT7-1,4.557,,,,4.0,u,,,True
+32,,CONT7-2,5.316,,,,3.4,u,,,True
+33,,CONT7-3,7.356,,,,4.6,u,,,True
+34,,CONT7-4,4.619,CRANIECOMY,,,5.3,u,ectomy,,False
+35,,CONT7-5,2.686,CRANIECOMY,,,2.4,u,,,False
+36,3797770.0,SDH11,4.407,,,,4.2,u,,,True
+37,,SDH11-1,1.158,CRANIECTOMY,,,1.5,u,ectomy,,False
+38,,SDH11-2,2.219,CRANIECTOMY,,,0.0,u,,,False
+39,3784133.0,"tai,IVH not included",,,,,,,,,False
+40,3772349.0,SDH10,2.875,,,,2.0,b,,,False
+41,,SDH10-1,5.738,,,,3.6,b,,,False
+42,3769711.0,EDH6,1.358,,,,1.8,u,,,True
+43,,EDH6-1,0.7,CRANIOTOMY,,,0.4,u,otomy,,False
+44,,EDH6-2,0.0,CRANIOTOMY,,,0.0,u,,,False
+45,3766017.0,EDH5,0.0,,,,0.0,b,,,False
+46,,EDH5-1,4.898,,,,5.0,u,,,False
+47,,EDH5-2,0.0,CRANIOTOMY,,,0.0,b,otomy,,False
+48,,EDH5-3,0.0,CRANIOTOMY,,,0.7,b,otomy,,False
+49,3764350.0,SDH9,8.627,,,,6.2,u,fracture,,True
+50,,SDH9-1,2.93,CRANIECTOMY,,,1.5,u,,,False
+51,,SDH9-2,0.0,CRANIECTOMY,,,1.0,u,,,False
+52,3732626.0,SDH5,2.837,,,,2.7,u,Small SDH absorbed afterwards,,True
+53,,SDH5-1,2.031,,,,0.0,u,"Closed head injury, small petechial haemorrhage",,True
+54,,SDH5-2,0.0,,,,1.5,u,Catheter/drain. Small petechial caused by catheter ,,False
+55,,SDH5-3,0.0,,,,0.0,u,,,False
+56,3709789.0,CONT6,0.0,,,,0.5,u,Open head injury,,True
+57,,CONT6-1,1.783,,,,0.0,u,Open head injury,Totally two different patient; This one is not for him,True
+58,3708063.0,SDH4,14.17,,,,12.5,U,,,True
+59,,SDH4-1,7.818,CRANIOTOMY,,,6.7,u,post-craniotomy,,False
+60,3050406.0,EDH4,2.0,,,,3.3,u,"Air + epidural (skull based fracture, air comes from the sinus)",,True
+61,,EDH4-1,1.146,,,,2.0,u,,,True
+62,,EDH4-2,2.079,,,,2.5,U,Some post-operative haemorrhages,,True
+63,3737808.0,SDH6,2.913,,,,0.0,u,"Shifting towards the lesion site, Atrophy case",,True
+64,,SDH6-1,0.0,,,,0.0,b,,,True
+65,3742364.0,SDH7,22.36,,,,20.3,U,,,True
+66,3758895.0,SDH8,7.542,,,,5.5,u,post-op,,True
+67,1003081.0,CONT1,0.9618,,,,1.6,u,,,True
+68,,CONT1-1,0.0,,,,0.0,u,,,True
+69,,CONT1-2,0.0,,,,0.0,u,,,True
+70,1040280.0,CONT2,0.9309,,,,0.0,u,,,True
+71,,CONT2-1,3.417,,,,2.0,u,Previously reading 0,,True
+72,,CONT2-2,1.368,,,,1.4,u,,,True
